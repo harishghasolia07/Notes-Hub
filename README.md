@@ -4,7 +4,7 @@
 
 
 ```bash
-  git clone https://github.com/Yuvadi29/NewFMN
+  git clone https://github.com/harishghasolia07/Notes-Hub.git
 ```
 
 Get inside the server folder and run
